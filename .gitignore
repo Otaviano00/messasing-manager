@@ -31,13 +31,15 @@ nb-configuration.xml
 # Vim
 *.swp
 *.swo
-
 # patch
 *.orig
 *.rej
 
 # Local environment
 .env
+
+# Docker files
+docker/
 
 # Plugin directory
 /.quarkus/cli/plugins/

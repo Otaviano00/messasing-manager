@@ -1,4 +1,4 @@
-package otav.br.messaging.jms;
+package otav.br.messaging.queue.jms;
 
 import jakarta.enterprise.context.ApplicationScoped;
 
